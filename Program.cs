@@ -1,4 +1,6 @@
-﻿namespace NumberGenerator;
+﻿using System.Runtime.InteropServices;
+
+namespace NumberGenerator;
 
 class Program
 {
@@ -19,10 +21,14 @@ class Program
                 
             }
 
-            int counter = 1;
-            for (int i = 0; i < numbers.Length; i++) {
-                System.Console.Write($"|{numbers[i]}| ");
-                counter++;
+            // int counter = 1;
+            // for (int i = 0; i < numbers.Length; i++) {
+            //     System.Console.Write($"|{numbers[i]}| ");
+            //     counter++;
+            // }
+            var sortedArray = numbers.OrderBy(i => i);
+            foreach (var item in sortedArray) {
+                System.Console.Write($"|{item}|");
             }
     }
 }
