@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive\Programming\NumberGenerator\bin\Debug\net7.0\NumberGenerator.exe
+C:\Users\corey\OneDrive\Programming\NumberGenerator\bin\Debug\net7.0\NumberGenerator.deps.json
+C:\Users\corey\OneDrive\Programming\NumberGenerator\bin\Debug\net7.0\NumberGenerator.runtimeconfig.json
+C:\Users\corey\OneDrive\Programming\NumberGenerator\bin\Debug\net7.0\NumberGenerator.dll
+C:\Users\corey\OneDrive\Programming\NumberGenerator\bin\Debug\net7.0\NumberGenerator.pdb
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.AssemblyInfo.cs
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.dll
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\refint\NumberGenerator.dll
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.pdb
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\NumberGenerator.genruntimeconfig.cache
+C:\Users\corey\OneDrive\Programming\NumberGenerator\obj\Debug\net7.0\ref\NumberGenerator.dll
